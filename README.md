@@ -1,24 +1,22 @@
-# README
+---
+<h4 align="center">
+  🚀 rails utilizando MySql 
+ 
+</h4>
+<br>
+ 
+## 💻 Neste curso foi utilizado as tecnologias:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [MySql](https://mysql.com/)
 
-Things you may want to cover:
+## 💻 Projeto
 
-* Ruby version
+   - Foi criado um pequeno projeto CRUD, utilizando o banco de dados MySql, com o intuito de analisar um pouco mais a integração do Rails com o Mysql, assim como a criação de Migrations e a persistência dos dados no banco de dados.
 
-* System dependencies
+## 💻 Assuntos
+   - Scaffold
+   - MySql
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
+ ----
