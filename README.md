@@ -1,8 +1,8 @@
 ---
-<h4 align="center">
+<h1 align="center">
   🚀 Rails utilizando MySql 
  
-</h4>
+</h1>
 <br>
  
 ## 💻 Neste curso foi utilizado as tecnologias:
