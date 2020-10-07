@@ -1,6 +1,6 @@
 ---
 <h4 align="center">
-  🚀 rails utilizando MySql 
+  🚀 Rails utilizando MySql 
  
 </h4>
 <br>
